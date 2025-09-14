@@ -9,4 +9,4 @@ Musical Store Data Analysis by using Postgres SQL<br>
 
 </img>
   
-
+https://github.com/FahimUddin295/SQL---Musical-Store-Data-Analysis/issues/1#issue-3202422728
